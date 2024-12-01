@@ -105,7 +105,7 @@
                     arrows: {
                         enable:true,
                         style: 'erinyen',
-                        tmp: '<div class="tp-title-wrap"><div class="tp-arr-imgholder"></div><div class="tp-arr-img-over"></div><span class="tp-arr-titleholder">Slide Title</span></div>',
+                        tmp: '<div class="tp-title-wrap"><div class="tp-arr-imgholder"></div><div class="tp-arr-img-over"></div><span class="tp-arr-titleholder">Hausmeister Service</span></div>',
                         
                         left: {
                             h_align:"left",
